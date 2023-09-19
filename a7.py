@@ -14,6 +14,5 @@ if num > 0:
 else:
     # If the number is not positive , print an error message.
     print("That number is not a natural number!")
-
-
+    
 
