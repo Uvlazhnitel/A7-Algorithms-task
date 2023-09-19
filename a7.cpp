@@ -30,7 +30,6 @@ int main() {
     }
     // Return 0 to indicate successful completion
     return 0;
-    cout<<"Test";    
 }
 
        
